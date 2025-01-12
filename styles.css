@@ -58,3 +58,8 @@ header {
   border-left: 6px solid green;
   height: 500px;
 }
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
